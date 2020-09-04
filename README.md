@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+## Learning Projects:
+- Classes and Objects
+- 2D Arrays
+- Recursion
+- GUI Elements
+- Event Timer
+- File IO and LINQ
+
+
 
 <!--
 **Axmart/Axmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
