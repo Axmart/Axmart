@@ -7,7 +7,14 @@
 - GUI Elements
 - Event Timer
 - File IO and LINQ
-
+- Inheritence
+- Abstract Class, Polymorphism
+- Interfaces
+- Collections
+- Generics
+- Operator overloading
+- LINQ
+- Threads
 
 
 <!--
