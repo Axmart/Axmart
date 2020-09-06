@@ -4,7 +4,7 @@
 - [Classes and Objects](https://github.com/AxmartLearningProjects/CarStore)
 - [Basic Forms GUI](https://github.com/AxmartLearningProjects/CarShopGUI)
 - [OOP Basics](https://github.com/AxmartLearningProjects/AnimalClasses)
-- 2D Arrays , [(Console version)](google.com)
+- 2D Arrays , [(Console version)](https://github.com/AxmartLearningProjects/ChessBoardConsoleApp)
 - Recursion
 - GUI Elements
 - Event Timer
